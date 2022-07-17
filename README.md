@@ -50,7 +50,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -113,14 +112,6 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -179,11 +170,11 @@ Project Link: [https://ferneynava.github.io/Planeador-semanal/](https://ferneyna
 [contributors-url]: https://github.com/ferneynava/Planeador-semanal/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ferneynava/Planeador-semanal.svg?style=for-the-badge
 [forks-url]: https://github.com/ferneynava/Planeador-semanal/network/members
-[stars-shield]: https://img.shields.io/github/stars/ferneynava/Planeador-semanal.svg.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/ferneynava/Planeador-semanal.svg?style=for-the-badge
 [stars-url]: https://github.com/ferneynava/Planeador-semanal/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ferneynava/Planeador-semanal.svg?style=for-the-badge
 [issues-url]: https://github.com/ferneynava/Planeador-semanal/issues
-[license-shield]: https://img.shields.io/github/license/ferneynava/Planeador-semanal.svg.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ferneynava/Planeador-semanal.svg?style=for-the-badge
 [license-url]: https://github.com/ferneynava/Planeador-semanal/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/
