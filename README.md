@@ -18,7 +18,7 @@
   <h3 align="center">Planeador semanal</h3>
 
   <p align="center">
-    Creación planeador semanal. Reto Platzi teffcode 
+    Creación planeador semanal. Reto de Platzi teffcode 
     <br />
     <a href="https://github.com/ferneynava/Planeador-semanal"><strong>Explore the docs »</strong></a>
     <br />
