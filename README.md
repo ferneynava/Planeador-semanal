@@ -64,7 +64,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Maquetación de un planeador semanal con CSS Grid, Flexbox y Glassmorphism. Retos de Platzi y teffcode
+Maquetación de un planeador semanal con CSS Grid, Flexbox y Glassmorphism. Retos de Platzi - teffcode
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
